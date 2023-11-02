@@ -1,0 +1,66 @@
+table.one{
+	border-bottom-width:thick;
+	border-left-color:white;
+	border-top-style:none;
+	border-top-color:white;
+	border-right-color:white;
+	border-bottom-style:dashed;
+	border-bottom-color:black;
+}
+
+table.two{
+ 	border-width:thick;
+ 	border-top-color:red;
+ 	border-left-color:orange;
+ 	border-bottom-color:violet;
+ 	border-right-color:green;
+ 	border-top-style:dashed;
+	border-bottom-style:double;
+ 	border-right-style:dotted;
+}
+
+
+body{
+
+	background-color:#ffeacb;
+}
+
+h1{
+	font-style:'Verdana';
+	font-size:40pt;
+	color:darkblue;
+
+}
+
+h6{
+	font-style:'Times New Roman';
+	font-size:20pt;
+	color:Red;
+
+}
+
+h3{
+	font-style:'Times New Roman';
+	font-size:25pt;
+	color:Red;
+
+}
+
+p{
+	font-style:'calibri';
+	font-size:15pt;
+	color:black;
+}
+
+i{
+	font-style:'Times New Roman';
+	font-size:20pt;
+	color:#6e6efa;
+}
+
+
+
+
+
+
+
